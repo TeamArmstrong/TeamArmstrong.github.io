@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 title: <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/armstrong-long2.png" alt="logo">
 includes_dir: _includes
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
