@@ -1,0 +1,7 @@
+html {overflow: -moz-scrollbars-vertical;}
+
+.project-name img{
+	height: 100%;
+    width: 100%;
+    padding-top: 26px;
+}
