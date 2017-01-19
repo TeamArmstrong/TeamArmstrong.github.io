@@ -1,3 +1,6 @@
+---
+title: Team Armstrong
+---
 # Welcome to Team Armstrong
 
 Our team is called the Armstrong. Like our name, our members come from a strong background of software development experience accumulated from a range of successful personal and academic projects, as well as co-op work experience in active agile enviroments. As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](matplotlib.org) project.
