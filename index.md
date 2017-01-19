@@ -6,7 +6,7 @@ title: Team Armstrong
 Our team is called the Armstrong. Like our name, our members come from a strong background of software development experience accumulated from a range of successful personal and academic projects, as well as co-op work experience in active agile enviroments. 
 
 ### Team Goals:
-* As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](https://matplotlib.org) project.
+* As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](http://matplotlib.org) project.
 * Learn about the process of developing/maintaining an open source project, as well as understand the difference between developing a plugin/standalone app and contribute to an existing project
 * Challenge ourselves to learn something new and have fun while doing it!
 
@@ -24,8 +24,8 @@ I am a 3rd year Computer Science Specialist student at the University of Toronto
 
 ### Alix Lian
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Alix.jpg" alt="Alix" style="float:right; width: 300px;  padding-left: 20px;"/>
-I am a fourth year Computer Science student in the Comprehensive stream at the University of Toronto Scarborough. I had two co-op work terms at Leonardo Inc, where she learned about various Agile (Scrum) development practices, including the importance and responsibilities of different roles in a Scrum team and utilizing JIRA, Confluence and Jenkins for Agile (Scrum) Development. As a part of the DevOps team, I structured a UAT automation framework for website testing where she demonstrated strong programming skills and improved developers' local working environment while using PuppetLab and Vagrant.
-As a student at UTSC, I am an overachiever and  a fast-learner. I am familiar with `*`nix environment and pick up programming languages quickly. As a TA at UTSC, I am patient with my students and love to offer help whenever wanted. When I am not working, I am a makeup artist, movie-lover and short-distant runner.
+Alix is a fourth year Computer Science student in the Comprehensive stream at the University of Toronto Scarborough. She has had two co-op work terms at Leonardo Inc, where she learned about various Agile (Scrum) development practices, including the importance and responsibilities of different roles in a Scrum team and utilizing JIRA, Confluence and Jenkins for Agile (Scrum) Development. As a part of the DevOps team, Alix structured a UAT automation framework for website testing where she demonstrated strong programming skills and improved developers' local working environment while using PuppetLab and Vagrant.
+As a student at UTSC, Alix is an overachiever and  a fast-learner. She is familiar with `*`nix environment and picks up programming languages quickly. As a TA at UTSC, she is patient with her students and loves to offer help whenever wanted. When Alix is not working, she is a makeup artist, movie-lover and short-distant runner.
 
 ### Ray Chu
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Ray.jpg" alt="Ray" style="float:left; width: 300px;  padding-right: 20px;"/>
@@ -45,10 +45,12 @@ Category|Agreement
 ------------ | -------------
 Method of communication | Slack and Facebook messenger 
 Communication response time (excluding night time) | Alix - within 4 hrs<br/>Ray - within 3 hrs<br/>Melissa - within 6 hrs<br/>Sam - within 6 hrs<br/>Steven - within 4 hrs
-Meetings|Thursday at 4-5pm at IC400A with TA<br/>Thursday 5-6pm in person<br/>Online meetings will be scheduled when needed through Facebook Messenger or Slack's voice conference feature
-Version control|Git
-Deliverable submissions|All work should be ready for submission one day before the deadline
-Contingency|In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.<br/>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.
+Meetings|Thursday at 4-5pm at IC400A with TA<br/>Thursday 5-6pm in person<br/>Online meetings will be scheduled when needed through Facebook Messenger or Slack's voice conference feature<br/>All meetings are mandatory unless a reasonable reason is given prior to the meeting<br/>Minutes will be taken by rounds
+Meeting Preparation|Before the weekly meeting with TA, as preparation, make sure that:<br/> * The app runs on at least one person's computer <br/> * Everyone is aware of the project’s status (i.e: what features have we done, what’s working, what’s not working, what everyone is working on)
+Version control|Git<br/>Immature code, inappropriate comments such as “Sam is smart” should not be committed<br/>Log message standard: Need informative logging message. In the format of `[feature name]-[what is done] and/or [what needs to be done]`
+Division of Work|Everyone is responsible for approximately 20% of the total work per sprint.<br/>Task breakdown decided during planning on Trello, and further updates decided during standups
+Deliverable submissions|All work should be ready for submission one day before the deadline<br/>Final review will be done by all members before the last day and a delegated person will submit the work
+Contingency|In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.<br/>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.<br/>If someone keeps missing meetings, we will try to communicate with this person to find out why they’re missing meetings so frequently. If necessary, we can adjust meeting times to accommodate for this team member’s schedule. If this behaviour doesn’t change, the issue will be escalated to the TA/Instructor.
 Quality of Code| Peer review of plan before beginning on a certain ticket<br/>After ticket is done, functional, regression testing and code review are required by other members of the team.
 
 ## Tools Being Used
