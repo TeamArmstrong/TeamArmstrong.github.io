@@ -6,7 +6,7 @@ title: Team Armstrong
 Our team is called the Armstrong. Like our name, our members come from a strong background of software development experience accumulated from a range of successful personal and academic projects, as well as co-op work experience in active agile enviroments. 
 
 ### Team Goals:
-* As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](https://matplotlib.org) project.
+* As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](http://matplotlib.org) project.
 * Learn about the process of developing/maintaining an open source project, as well as understand the difference between developing a plugin/standalone app and contribute to an existing project
 * Challenge ourselves to learn something new and have fun while doing it!
 
@@ -44,12 +44,14 @@ I am a third year student in UTSC major in computer science. C# is my first prog
 Category|Agreement
 ------------ | -------------
 Method of communication | Slack and Facebook messenger 
-Communication response time (excluding night time) | Alix - within 4 hrs<br/>Ray - within 3 hrs<br/>Melissa - within 6 hrs<br/>Sam - within 6 hrs<br/>Steven - within 4 hrs
-Meetings|Thursday at 4-5pm at IC400A with TA<br/>Thursday 5-6pm in person<br/>Online meetings will be scheduled when needed through Facebook Messenger or Slack's voice conference feature
-Version control|Git
-Deliverable submissions|All work should be ready for submission one day before the deadline
-Contingency|In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.<br/>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.
-Quality of Code| Peer review of plan before beginning on a certain ticket<br/>After ticket is done, functional, regression testing and code review are required by other members of the team.
+Communication response time (excluding night time) | <ul><li> Alix - within 4 hrs<br/><li>Ray - within 3 hrs<br/><li>Melissa - within 6 hrs<br/><li>Sam - within 6 hrs<br/><li>Steven - within 4 hrs</ul>
+Meetings|<ul><li>Thursday at 4-5pm at IC400A with TA<br/><li>Thursday 5-6pm in person<br/><li>Online meetings will be scheduled when needed through Facebook Messenger or Slack's voice conference feature<br/><li>All meetings are mandatory unless a reasonable reason is given prior to the meeting<br/><li>Minutes will be taken by rounds</ul>
+Meeting Preparation|<li>Before the weekly meeting with TA, as preparation, make sure that:<br/> <ul><li> The app runs on at least one person's computer <br/> <li>Everyone is aware of the project’s status (i.e: what features have we done, what’s working, what’s not working, what everyone is working on)</ul>
+Version control|Git<br/><ul><li>Immature code, inappropriate comments such as “Sam is smart” should not be committed<br/><li>Log message standard: Need informative logging message. In the format of `[feature name]-[what is done] and/or [what needs to be done]`</ul>
+Division of Work|<ul><li>Everyone is responsible for approximately 20% of the total work per sprint.<br/><li>Task breakdown decided during planning on Trello, and further updates decided during standups</ul>
+Deliverable submissions|<ul><li>All work should be ready for submission one day before the deadline<br/><li>Final review will be done by all members before the last day and a delegated person will submit the work</ul>
+Contingency|<ul><li>In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.<br/><li>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.<br/><li>If someone keeps missing meetings, we will try to communicate with this person to find out why they’re missing meetings so frequently. If necessary, we can adjust meeting times to accommodate for this team member’s schedule. If this behaviour doesn’t change, the issue will be escalated to the TA/Instructor.</ul>
+Quality of Code| <ul><li>Peer review of plan before beginning on a certain ticket<br/><li>After ticket is done, functional, regression testing and code review are required by other members of the team.</ul>
 
 ## Tools Being Used
 
