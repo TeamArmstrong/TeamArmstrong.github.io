@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/armstrong-long2.png" alt="logo" style="height: 100%;  width: 100%; padding-top: 26px;">
+title: <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/armstrong-long2.png" alt="logo">
 includes_dir: _includes
 markdown: redcarpet
 redcarpet:
