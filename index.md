@@ -26,7 +26,7 @@ I am Steven Xia, a fourth year student in the Software Engineering Specialist pr
 
 ### Samuel Wong
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Sam.png" alt="Sam" style="float:left; width: 300px;  padding-right: 20px;"/>
-I am a third year student in UTSC major in computer science. C# is my first programming language and over the years I have learned python, java, php, C, html and SQL. I have once built several small project on my own with jQuery and javascript. I am familiar with JSON Server construction and fully experienced in android application development. Programming within diverse environments makes me an experienced programmer. Also, i am very interested in the development of bitcoin, automatic drive and VR.
+I am a third year student in UTSC major in computer science. C# is my first programming language and over the years I have learned python, java, php, C, html and SQL. I have once built several small project on my own with jQuery and javascript. I am familiar with JSON Server construction and fully experienced in android application development. Programming within diverse environments makes me an experienced programmer. Also, i am very interested in the development of bitcoin, automatic drive and VR. Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. 
 
 ## Team Agreement
 
