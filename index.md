@@ -32,11 +32,19 @@ I am a third year student in UTSC major in computer science. C# is my first prog
 
 Category|Agreement
 ------------ | -------------
-Method of communication | Slack and/or Facebook messenger 
-Communication response time (excluding night time) | Alix - within 4 hrs<br/>Ray - within 2 hrs<br/>Melissa - within 6 hrs<br/>Sam - within 6 hrs<br/>Steven - within 4 hrs
-Meetings|Thursday at 4pm at IC400A with TA<br/>XXday at Xpm school/online?
+Method of communication | Slack and Facebook messenger 
+Communication response time (excluding night time) | Alix - within 4 hrs<br/>Ray - within 3 hrs<br/>Melissa - within 6 hrs<br/>Sam - within 6 hrs<br/>Steven - within 4 hrs
+Meetings|Thursday at 4-5pm at IC400A with TA<br/>Thursday 5-6pm in person<br/>Online meetings will be scheduled when needed through Facebook Messenger or Slack's voice conference feature
 Version control|Git
-Deliverable submissions|One day before the deadline
+Deliverable submissions|All work should be ready for submission one day before the deadline
 Contingency|In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.<br/>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.
+Quality of Code| Peer review of plan before beginning on a certain ticket<br/>After ticket is done, functional, regression testing and code review are required by other members of the team.
 
 ## Tools Being Used
+Tool|Use
+------------------------|------------------
+Facebook Messenger | Main mode of general communicaton
+Slack| Secondary Communication, mainly used for announcements and link storing
+Google Docs|Collaboration tool for written tasks, such as meeting details and other misc. documents
+Github|For version control of the project
+Trello|For user stories and tasks management<br/>Platform to assign tasks to team members 
