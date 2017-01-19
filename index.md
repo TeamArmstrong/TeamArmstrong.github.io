@@ -6,19 +6,15 @@ title: Team Armstrong
 Our team is called the Armstrong. Like our name, our members come from a strong background of software development experience accumulated from a range of successful personal and academic projects, as well as co-op work experience in active agile enviroments. 
 
 ### Team Goals:
-<ul>
-	<li>As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](matplotlib.org) project.</li>	
-	<li>Learn about the process of developing/maintaining an open source project, as well as understand the difference between developing a plugin/standalone app and contribute to an existing project</li>
-	<li>Challenge ourselves to learn something new and have fun while doing it!</li>
-</ul>
+* As a team, we are excited to combine our skillsets and proudly contribute quality code to the amazing [matplotlib](https://matplotlib.org) project.
+* Learn about the process of developing/maintaining an open source project, as well as understand the difference between developing a plugin/standalone app and contribute to an existing project
+* Challenge ourselves to learn something new and have fun while doing it!
 
 ### Team Strength:
-<ul>
-	<li>Industry experience: Four out of five team members have worked in the industry before, which has allowed us to learn about managing projects, the SDLC, and best development/coding practices. We can use these things to our advantage during matplotlib development.</li>
-	<li>We all have strong technical skills: With or without industry experience, we’re all technically proficient and are willing to learn about as many technologies/tools as we can in order to succeed.</li>
-	<li>We’re quick learners</li>
-	<li>We are all very motivated and want our team to succeed as a whole</li>
-</ul>
+* Industry experience: Four out of five team members have worked in the industry before, which has allowed us to learn about managing projects, the SDLC, and best development/coding practices. We can use these things to our advantage during matplotlib development.
+* We all have strong technical skills: With or without industry experience, we’re all technically proficient and are willing to learn about as many technologies/tools as we can in order to succeed.
+* We’re quick learners
+* We are all very motivated and want our team to succeed as a whole.
 
 ## Members
 
