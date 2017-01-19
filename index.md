@@ -41,8 +41,9 @@ Contingency|In the case of a member dropping the course, the member must notify 
 Quality of Code| Peer review of plan before beginning on a certain ticket<br/>After ticket is done, functional, regression testing and code review are required by other members of the team.
 
 ## Tools Being Used
+
 Tool|Use
-------------------------|------------------
+------------ | -------------
 Facebook Messenger | Main mode of general communicaton
 Slack| Secondary Communication, mainly used for announcements and link storing
 Google Docs|Collaboration tool for written tasks, such as meeting details and other misc. documents
