@@ -41,6 +41,9 @@ I am Steven Xia, a fourth year student in the Software Engineering Specialist pr
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Sam.png" alt="Sam" style="float:left; width: 300px;  padding-right: 20px;"/>
 I am a third year student in UTSC where I major in Computer Science. C# is my first programming language and over the years I have learned Python, Java, php, C, HTML and SQL. I have built several small projects on my own with jQuery and Javascript. I am familiar with JSON Server construction and fully experienced in Android application development. I am familiar with *nix and windows envioronment. Programming within diverse environments makes me an experienced programmer. I also developed strong skills such as teamwork, problem-solving and communication, which enhanced my capacity to face varied challenges under any circumstances. I enjoy music and sports, and also like learning about new technology (such as mobile software and hardware) through online research and books, and making use of them in daily life. Also, I am very interested in the development of Bitcoin, self-driving cars and VR.
 
+## Team Sharing a Meal
+<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team_meal.JPG" alt="sharing meal"/>
+
 ## Team Agreement
 
 Category|Agreement
@@ -52,7 +55,7 @@ Meeting Preparation|Before the weekly meeting with TA, as preparation, make sure
 Version control|<ul><li>Git</li><li>Immature code, inappropriate comments such as “Sam is smart” should not be committed</li><li>Log message standard: Need informative logging message. In the format of `[feature name]-[what is done] and/or [what needs to be done]`</li></ul>
 Division of Work|<ul><li>Everyone is responsible for approximately 20% of the total work per sprint.</li><li>Task breakdown will be decided during planning on Trello, and further updates decided during standup meetings</li></ul>
 Deliverable submissions|<ul><li>All work should be ready for submission one day before the deadline</li><li>Final review will be done by all members before the last day and a delegated person will submit the work</li></ul>
-Contingency|<ul><li>In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.</li><li>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.</li><li>If someone is frequently missing meetings, we will try to communicate with this person to find out why he or she is missing meetings. If necessary, we can adjust meeting times to accommodate for this team member’s schedule. If this behaviour doesn’t change, the issue will be escalated to the TA/Instructor.</li></ul>
+Contingency|<ul><li>In the case of a member dropping the course, the member must notify the team as soon as possible and the team will discuss with the TA if deemed necessary.</li><li>In the case of a member being academically dishonest, or failing to follow the above guidelines, the team will promptly notify and seek help from the TA and/or instructor.</li><li>If someone is frequently missing meetings, we will try to communicate with this person to find out why he or she is missing meetings. If necessary, we can adjust meeting times to accommodate for this team member’s schedule. If this behaviour doesn’t change, the issue will be escalated to the TA/Instructor.</li><li>If a member is sick and cannot do work, the member must notify the team ASAP and an emergency meeting will be held to determine if tasks needs to be shuffled to other members. The member will notify the team after the sickness has cured and tasks will be reassigned to that member.</li></ul>
 Quality of Code| <ul><li>A Peer review of the proposed plan will be held before beginning on a certain ticket</li><li>After a ticket is completed, functional, regression testing and code review are required and will be done by other members of the team.</li></ul>
 
 ## Tools Being Used
@@ -64,7 +67,3 @@ Slack| Secondary Communication, mainly used for announcements and link storing
 Google Docs|Collaboration tool for written tasks, such as meeting details and other misc. documents
 Github|For version control of the project
 Trello|For user stories and tasks management<br/>Platform to assign tasks to team members
-
-Team sharing a meal
------------- | -------------
-<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team_meal.JPG" alt="sharing meal"/>
