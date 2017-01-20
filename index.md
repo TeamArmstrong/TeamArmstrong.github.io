@@ -27,7 +27,7 @@ I am a 3rd year Computer Science Specialist student at the University of Toronto
 ### Alix Lian
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Alix.jpg" alt="Alix" style="float:right; width: 300px;  padding-left: 20px;"/>
 I am a fourth year Computer Science student in the Comprehensive Stream at the University of Toronto Scarborough. I had two co-op work terms at Leonardo Inc, where I learned about various Agile (Scrum) development practices, including the importance and responsibilities of different roles in a Scrum team and utilizing JIRA, Confluence and Jenkins for Agile (Scrum) Development. As a part of the DevOps team, I structured a UAT automation framework for website testing where I demonstrated strong programming skills and improved developers' local working environment while using PuppetLab and Vagrant.
-As a student at UTSC, I am an overachiever and  a fast-learner. I am familiar with `*nix` environment and pick up programming languages quickly. As a TA at UTSC, I am patient with my students and love to offer help whenever wanted. When I am not working, I am a makeup artist, movie-lover and short-distant runner.
+As a student at UTSC, I am an overachiever and  a fast-learner. I am familiar with *nix environment and pick up programming languages quickly. As a TA at UTSC, I am patient with my students and love to offer help whenever wanted. When I am not working, I am a makeup artist, movie-lover and short-distant runner.
 
 ### Ray Chu
 <img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/Ray.jpg" alt="Ray" style="float:left; width: 300px;  padding-right: 20px;"/>
