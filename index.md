@@ -3,6 +3,8 @@ title: Team Armstrong
 ---
 # Welcome to Team Armstrong
 
+<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team.JPG" alt="team"/>
+
 Our team is called the Armstrong. Like our name, our members come from a strong background of software development experience accumulated from a range of successful personal and academic projects, as well as co-op work experience in active agile enviroments. 
 
 ### Team Goals:
@@ -15,8 +17,6 @@ Our team is called the Armstrong. Like our name, our members come from a strong 
 * We all have strong technical skills: With or without industry experience, we’re all technically proficient and willing to learn about any technology and tool to succeed.
 * We are quick learners
 * We are all very motivated and want our team to succeed as a whole.
-
-<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team.JPG" alt="team"/>
 
 ## Members
 
