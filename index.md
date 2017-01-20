@@ -16,6 +16,8 @@ Our team is called the Armstrong. Like our name, our members come from a strong 
 * We are quick learners
 * We are all very motivated and want our team to succeed as a whole.
 
+<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team.JPG" alt="team"/>
+
 ## Members
 
 ### Melissa Tam
@@ -61,4 +63,8 @@ Facebook Messenger | Main mode of general communicaton
 Slack| Secondary Communication, mainly used for announcements and link storing
 Google Docs|Collaboration tool for written tasks, such as meeting details and other misc. documents
 Github|For version control of the project
-Trello|For user stories and tasks management<br/>Platform to assign tasks to team members 
+Trello|For user stories and tasks management<br/>Platform to assign tasks to team members
+
+Team sharing a meal
+------------ | -------------
+<img src="https://github.com/TeamArmstrong/teamarmstrong.github.io/raw/master/images/team_meal.JPG" alt="sharing meal"/>
